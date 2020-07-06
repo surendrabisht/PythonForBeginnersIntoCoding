@@ -13,7 +13,7 @@ x=2
 y=5
 
 print("value of x is {}  and y is {} and "
-      "temperasdasgit ature in celcius is {} ".format(x,y,temperatureInCelcius))
+      "temperature in celcius is {} ".format(x,y,temperatureInCelcius))
 
 
 print(f"\n value of x is {x}  and y is {y} and temperature in celcius is {temperatureInCelcius} ")
