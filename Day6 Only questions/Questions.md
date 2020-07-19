@@ -1,4 +1,4 @@
-       IF-ELIF-ELSE Construct Questions
+## **IF-ELIF-ELSE Construct Questions**
 
 1.	Ask user to enter age, sex ( M or F ), marital status ( Y or N ) and then using following rules print their place of service. 
 if employee is female, then she will work only in urban areas. 
@@ -25,7 +25,7 @@ For example, the area of the rectangle with length = 5 and breadth = 4 is greate
 8.	Given the coordinates (x, y) of a center of a circle and it’s radius, write a program which will determine whether a point lies inside the circle, on the circle or outside the circle.
 for ex. center of circle(3,3) and radius is 4,now user input 0,0 as x,y
 now program should till this 0,0 lies within circle or not
-(Hint: can use a**2  for squaring and  a**0.5 for square root)
+(Hint: can use a****2  for squaring and  a****0.5 for square root)
 
 9.	A certain grade of steel is graded according to the following conditions:
 (i) Hardness must be greater than 50
