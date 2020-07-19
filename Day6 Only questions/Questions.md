@@ -1,10 +1,10 @@
 ## **IF-ELIF-ELSE Construct Questions**
 
 1.	Ask user to enter age, sex ( M or F ), marital status ( Y or N ) and then using following rules print their place of service. 
-<br>if employee is female, then she will work only in urban areas. 
-<br>if employee is a male and age is in between 20 to 40 then he may work in anywhere 
-<br>if employee is male and age is in between 40 tO 60 then he will work in urban areas only. 
-<br>And any other input of age should print "ERROR". 
+<br>* if employee is female, then she will work only in urban areas. 
+<br>* if employee is a male and age is in between 20 to 40 then he may work in anywhere 
+<br>* if employee is male and age is in between 40 tO 60 then he will work in urban areas only. 
+<br>* And any other input of age should print "ERROR". 
 
 2.	write a program to input amount from user and print minimum number of notes (Rs. 500, 100, 50, 20, 10, 5, 2, 1) 
 required for the amount.Program to find minimum number of notes required for the given denomination.Logic to find minimum number of denomination for a given amount in C program.
