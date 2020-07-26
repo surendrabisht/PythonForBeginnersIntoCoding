@@ -102,3 +102,18 @@ FizzBuzz
 Write a method generate(int n) that given an integer N will return a list of integers such that the numbers are the factors of N and are arranged in increasing numerical order.
 
 For example, generate(1) should return an empty list and generate(30) should return the numbers: 2,3,5.
+
+
+9. Write a program to find the factorial value of any number entered through the keyboard.
+
+10. Two numbers are entered through the keyboard. Write a program to find the value of one number raised to the power of another.
+
+11. Write a program to print all the ASCII values and their equivalent characters using a while loop. The ASCII values vary from 0 to 255.
+
+12. Write a program to print out all Armstrong numbers between 1 and 500. If sum of cubes of each digit of the number is equal to the number itself, then the number is called an Armstrong number. For example, 153 = ( 1 * 1 * 1 ) + ( 5 * 5 * 5 ) + ( 3 * 3 * 3 )
+
+13. Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered.
+
+14. Write a program to find the range of a set of numbers. Range is the difference between the smallest and biggest number in the list.
+
+
