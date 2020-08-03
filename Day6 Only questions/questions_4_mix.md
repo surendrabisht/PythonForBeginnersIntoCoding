@@ -67,3 +67,6 @@ Expected Output:
 4  5  6<br>
 7  8  9  10<br>
 11  12  13  14  15<br>
+
+
+13.) Write a program to convert a decimal number to binary ?
