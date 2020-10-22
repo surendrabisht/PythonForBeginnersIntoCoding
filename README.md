@@ -10,7 +10,7 @@ https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6
 
 
 Once you are done practicing Python , you want to try out small part of code as Data scientist, you must install Jupyter notebook as it is very handy to 
-save you code and run then in parts.
+save your code and run it in parts.
 Below are the steps:
 1. #### pip install jupyterlab
 2. #### pip install notebook
