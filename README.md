@@ -15,3 +15,8 @@ Below are the steps:
 1. #### pip install jupyterlab
 2. #### pip install notebook
 3. #### jupyter notebook                  
+
+
+
+I would suggest if one have docker installed on his system, he/she could use docker image to start python using jupyter notebook with spark capabilites by pulling this image:
+docker run -p 8888:8888 jupyter/pyspark-notebook
