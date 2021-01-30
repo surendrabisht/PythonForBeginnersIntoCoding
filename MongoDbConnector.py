@@ -45,7 +45,7 @@ class MongoDbConnector:
 
 if __name__ == '__main__':
     print("start")
-    mongoDb=MongoDbConnector("mongodb+srv://sa:admin@cluster0.c2wxg.mongodb.net/vikalp?retryWrites=true&w=majority","sample_airbnb")
+    mongoDb=MongoDbConnector("URL","Dbname")
     mongoDb.DeleteItem("listingsAndReviews",{"_id":"10006546"}) #{"_id":"10006546"})
     
     #1. print all tables
@@ -67,12 +67,6 @@ if __name__ == '__main__':
     #     print(post)
 
     print("Done")
-
-
-
-
-# client = pymongo.MongoClient("mongodb+srv://sa:<password>@cluster0.c2wxg.mongodb.net/<dbname>?retryWrites=true&w=majority")
-# db = client.test
 
 
 
