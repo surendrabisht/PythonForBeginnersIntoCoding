@@ -1,1 +1,14 @@
+# Ide temp folder
 .idea/
+.vs/
+.DS_Store/
+#virtual environment
+env/
+venv/
+# Byte-compiled / optimized 
+__pypackages__/
+__pycache__/
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
